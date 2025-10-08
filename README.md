@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+Xin Ping is lazy to read the news online so she created an agent to help her collate all the news report to summarise all the things happening.
 # News Summarizer
 
 A simple web app that fetches news and generates AI-powered summaries. Works on mobile and desktop.
@@ -21,11 +21,3 @@ news-summarizer/
 │
 └── README.md           # You are here!
 ```
-
-## Getting Started
-
-(Instructions will be added as you build the project)
-=======
-# News-summariser
-Xin Ping is lazy to read the news online so she created an agent to help her collate all the news report to summarise all the things happening.
->>>>>>> 49dc9ced316c505828e7f0d2149e7065704fc5ba
